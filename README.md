@@ -1,5 +1,8 @@
 # xinitrc-config
 
+## config location
+~/.xinitrc
+
 ## Start Xorg display server
 ```
 $ startx
