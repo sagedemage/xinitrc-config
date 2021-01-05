@@ -1,6 +1,6 @@
 # xinitrc-config
 
-## config location
+## Config Location
 ~/.xinitrc
 
 ## Start Xorg display server
