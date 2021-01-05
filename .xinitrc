@@ -1,0 +1,9 @@
+# Here i3 is kept as default 
+session=${1:-i3}
+
+case $session in 
+	i3	) exec i3;;
+	fluxbox	) exec startfluxbox;;
+	# No known session, try to run it as command
+	*	) exec $1;;
+esac
