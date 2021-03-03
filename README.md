@@ -14,6 +14,11 @@ $ startx ~/.xinitrc $Session
 ```
 $Session is the name of the window manager/desktop environment.### 
 
+For exmaple:
+```
+$ startx ~/.xinitrc awesome
+```
+
 ### $Session options
 (Option 1) **awesome**
 
