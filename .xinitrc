@@ -1,3 +1,10 @@
+#!/bin/sh
+#
+# ~/.xinitrc
+#
+# Executed by startx (run your window manager from here)
+#
+
 # Here i3 is kept as default
 session=${1:-awesome}
 
