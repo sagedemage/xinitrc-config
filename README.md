@@ -22,4 +22,4 @@ $Session is the name of the window manager/desktop environment.###
 (Option 3) fluxbox
 
 ## Install numlockx program to enable num lock with startx
-Install "numlockx" from your distribution package manager. 
+Install **numlockx** from your distribution package manager. 
