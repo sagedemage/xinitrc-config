@@ -8,7 +8,7 @@
 $ startx
 ```
 
-## Run different window manager or dekstop environment
+## Run different window manager or desktop environment
 ```
 $ startx ~/.xinitrc $Session
 ```
