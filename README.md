@@ -15,5 +15,6 @@ $ startx ~/.xinitrc $Session
 $Session is the name of the window manager/desktop environment.### 
 
 ### $Session options
-Option 1) i3
-Option 2) 
+Option 1) awesome
+Option 2) i3
+Option 3) fluxbox
