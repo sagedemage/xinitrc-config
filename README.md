@@ -10,6 +10,6 @@ $ startx
 
 ## Run different window manager or dekstop environment
 ```
-$ startx ~/.xinitrc session
+$ startx ~/.xinitrc $Session
 ```
-session is the name of the window manager/desktop environment. 
+$Session is the name of the window manager/desktop environment. 
