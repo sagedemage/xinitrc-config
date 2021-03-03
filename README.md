@@ -15,11 +15,11 @@ $ startx ~/.xinitrc $Session
 $Session is the name of the window manager/desktop environment.### 
 
 ### $Session options
-(Option 1) awesome
+(Option 1) **awesome**
 
-(Option 2) i3
+(Option 2) **i3**
 
-(Option 3) fluxbox
+(Option 3) **fluxbox**
 
 ## Install numlockx program to enable num lock with startx
 Install **numlockx** from your linux distribution package manager. 
