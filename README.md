@@ -26,5 +26,5 @@ $ startx ~/.xinitrc awesome
 
 (Option 3) **fluxbox**
 
-## Install numlockx program to enable num lock with startx
+## Install numlockx program to enable Num Lock with startx
 Install **numlockx** from your linux distribution package manager. 
