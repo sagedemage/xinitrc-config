@@ -20,3 +20,6 @@ $Session is the name of the window manager/desktop environment.###
 (Option 2) i3
 
 (Option 3) fluxbox
+
+## Install numlockx program to enable num lock with startx
+numlockx
