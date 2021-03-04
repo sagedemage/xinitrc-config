@@ -12,7 +12,7 @@ $ startx
 ```
 $ startx ~/.xinitrc $Session
 ```
-$Session is the name of the window manager/desktop environment.### 
+***$Session*** is the name of the window manager/desktop environment. 
 
 For exmaple:
 ```
