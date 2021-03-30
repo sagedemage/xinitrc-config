@@ -24,7 +24,7 @@ $ startx ~/.xinitrc awesome
 
 (Option 2) **i3**
 
-(Option 3) **fluxbox**
+(Option 3) **kde**
 
 ## Install numlockx program to enable Num Lock with startx
 Install **numlockx** from your linux distribution package manager. 
