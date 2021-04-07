@@ -1,4 +1,5 @@
 # xinitrc-config
+Shell program for startx to run different window managers and desktop environments.
 
 ## Config Location
 ~/.xinitrc
