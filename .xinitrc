@@ -15,7 +15,7 @@ numlockx &
 case $session in
 	awesome ) exec awesome;;
 	i3	) exec i3;;
-	kde ) exec startplasma-x11;;
+	cinnamon ) exec cinnamon-session;;
 	# No known session, try to run it as command 
 	*	) exec $1;;
 esac
