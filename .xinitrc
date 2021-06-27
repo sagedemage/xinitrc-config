@@ -10,8 +10,6 @@ export DESKTOP_SESSION=plasma
 # Here awesome is kept as default
 session=${1:-awesome}
 
-numlockx &
-
 case $session in
 	awesome ) exec awesome;;
 	i3	) exec i3;;
